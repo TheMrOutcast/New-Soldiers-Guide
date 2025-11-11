@@ -1,0 +1,74 @@
+html{
+    display: flow-root;
+    font-size: 62.5%;
+}
+
+Body{
+    background-color: #6A714D;
+    margin: 0rem;
+    padding: 0%;
+}
+
+.rubik-dirt-regular {
+  font-family: "Rubik Dirt", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#title{
+    font-size: 6rem;
+    text-align: center;
+}
+
+#page_selector_bar{
+    border: .3rem solid #583d31;
+    border-left: 0rem;
+    border-right: 0rem;
+    padding: 1rem 0rem 1rem 0rem;
+    background-color: #9F966F;
+
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+#page_selector{
+    margin: 0rem 1rem 0rem 1rem;
+    padding: 0rem 1rem 0rem 1rem;
+    width: max-content;
+}
+
+h2{
+    margin-top: 5rem;
+
+    font-size: 4rem;
+    font-family: "Rubik Dirt", system-ui;
+    text-align: center;
+}
+
+h3{
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+
+    font-size: 2rem;
+    font-family: "Rubik Dirt", system-ui;
+    text-align: center;
+}
+
+p{
+    font-size: 2rem;
+    text-align: center;
+}
+
+ol li{
+    font-size: 2rem;
+}
+
+ul li{
+    font-size: 2rem;
+}
+
+img{
+    margin-top: 5rem;
+}
+
