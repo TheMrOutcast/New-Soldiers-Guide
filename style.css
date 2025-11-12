@@ -16,6 +16,13 @@ Body{
 }
 
 
+.lexend-uniquifier{
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
 #title{
     font-size: 6rem;
     text-align: center;
@@ -39,33 +46,38 @@ Body{
 }
 
 h2{
-    margin-top: 5rem;
-
-    font-size: 4rem;
+    margin: 0%;
+    font-size: 5rem;
     font-family: "Rubik Dirt", system-ui;
-    text-align: center;
 }
 
 h3{
     margin-top: 7rem;
     margin-bottom: 7rem;
 
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: "Rubik Dirt", system-ui;
-    text-align: center;
+}
+
+h4{
+    font-size: 2.8rem;
 }
 
 p{
-    font-size: 2rem;
-    text-align: center;
+    font-size: 2.5rem;
+    font-family: "Lexend", sans-serif;
 }
 
-ol li{
-    font-size: 2rem;
+ol{
+    margin-top: 2rem;
 }
 
-ul li{
-    font-size: 2rem;
+li{
+    margin-top: 2rem;
+
+    text-align: left;
+    font-size: 2.5rem;
+    font-family: "Lexend", sans-serif;
 }
 
 img{
